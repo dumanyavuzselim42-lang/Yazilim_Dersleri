@@ -1,2 +1,16 @@
 # Yazilim_Dersleri
-Bu repository, Python programlama dili ve temel yazılım kavramlarını öğrenmek isteyenler için hazırlanmış örnek dersleri içerir. Dosyalar, adım adım açıklamalar ve örneklerle birlikte, yeni başlayanların Python’u ve yazılım mantığını kolayca öğrenmesini sağlar.
+Ders İçeriği
+
+Bu ders, Python programlamaya yeni başlayanlar için terminale yazdırma ve temel string işlemleri konularını kapsamaktadır. Dersin içeriği şunları içerir:
+
+print komutu ile terminale yazdırma ve alt alta yazdırma yöntemleri
+
+Değişken oluşturma, birleştirme ve boşluk bırakma
+
+String parçalama (slicing) ile belirli karakterleri yazdırma
+
+String fonksiyonları: upper(), lower(), capitalize(), startswith(), endswith(), len()
+
+Her işlemin terminal çıktısının örneklenmesi ve açıklamalarla desteklenmesi
+
+Bu ders, yeni başlayanların Python’un temel yazdırma ve string işlemleri mantığını kolayca öğrenmesini sağlar.
