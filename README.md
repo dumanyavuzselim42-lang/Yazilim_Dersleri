@@ -39,3 +39,23 @@ Python’daki sayı türlerini tanıyabilir,
 Temel matematiksel işlemleri anlayabilir ve uygulayabilir,
 
 Karşılaştırma operatörlerini mantıksal ifadelerde kullanabilir hale gelirsin.
+
+# Python Ders 3 - Listeler
+
+Bu proje, Python'da **listelerin** nasıl oluşturulduğunu ve temel liste metodlarının nasıl kullanıldığını öğretir.
+
+## İçerik
+- Liste oluşturma ve elemanlara erişme  
+- `append()`, `insert()`, `remove()`, `extend()` gibi temel metotlar  
+- `sort()` ve `sorted()` farkı  
+- `min()`, `max()`, `sum()` ve `in` kullanımı  
+- `for` döngüsü ve `enumerate()`  
+- `join()` ve `split()` ile liste–string dönüşümü
+
+## Amaç
+Yeni başlayanlar için Python listelerini örneklerle anlamayı kolaylaştırmak.
+
+## Çalıştırma
+```bash
+python ders3_listeler.py
+
